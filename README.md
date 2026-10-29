@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Keyboard+Navigation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Homerow Free Installer** — Homerow is a macOS utility that lets you navigate and interact with your entire Mac using only the keyboard, without reaching for the mouse. Works without internet access, no account required. Full offline installation.
+**💻 Homerow Free Installer** — Homerow is a macOS productivity application that lets you navigate and control your Mac entirely using the keyboard, eliminating the need to switch between keyboard and mouse. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Homerow
 
-Homerow is a macOS utility that lets you navigate and interact with your entire Mac using only the keyboard, without reaching for the mouse. By pressing a hotkey, every clickable element receives a letter code, allowing you to trigger any action by typing.
+Homerow is a macOS productivity application that lets you navigate and control your Mac entirely using the keyboard, eliminating the need to switch between keyboard and mouse. With a single shortcut, Homerow overlays letters on clickable interface elements, allowing you to click, focus, or scroll by typing the corresponding letters. It brings Vimium-style keyboard navigation to all macOS applications.
 
 ---
 
 ## ❌ Problem: Homerow is hard to access
 
-- **macOS Only** — No Windows or Linux equivalent
-- **Paid App** — Requires purchase from the developer website
-- **Learning Curve** — Adapting to keyboard-only navigation requires conscious habit change
-- **Compatibility** — Some apps with custom UI frameworks do not expose their elements to Homerow
+- **macOS Only** — No Windows version
+- **Learning Curve** — Keyboard-driven UI control requires building new muscle memory
+- **Application Compatibility** — Some applications with non-standard UI elements may have incomplete coverage
+- **Commercial License** — Paid application
 
 ---
 
@@ -121,7 +121,7 @@ Homerow is a macOS utility that lets you navigate and interact with your entire 
 
 ---
 
-**Homerow Free Installer** — Homerow is a macOS utility that lets you navigate and interact with your entire Mac using only the keyboard, without reaching for the mouse. Install without internet connection today!
+**Homerow Free Installer** — Homerow is a macOS productivity application that lets you navigate and control your Mac entirely using the keyboard, eliminating the need to switch between keyboard and mouse. Install without internet connection today!
 
 <div align="center">
 
